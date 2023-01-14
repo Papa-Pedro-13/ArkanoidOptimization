@@ -8,7 +8,7 @@
 #include <string.h>
 #include "funcs.h"
 #pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
-
+//Тест коммита
 int nullrestart = 0;
 int isNextLevel = 0;
 // Resolution
